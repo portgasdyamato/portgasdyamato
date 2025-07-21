@@ -54,7 +54,6 @@
 ## 🐾 Cute Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=portgasdyamato&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false" width="400" />
-  <br><br>
   <img src="https://nirzak-streak-stats.vercel.app/?user=portgasdyamato&theme=ambient_gradient&hide_border=true" width="400"/>
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=portgasdyamato&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="400"/>
