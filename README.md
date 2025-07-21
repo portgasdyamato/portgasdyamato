@@ -14,7 +14,11 @@
 ---
 
 ## 🌷 About Me
-🐾 Final year **Computer Science & Engineering** student  
+<table>
+<tr>
+<td width="70%">
+  
+🌸 Final year **Computer Science & Engineering** student  
 💻 Aspiring **AI/ML Engineer** and **Full Stack Developer**  
 🎨 Passionate about designing aesthetic, human-centric interfaces  
 🌸 I love building projects that merge **creativity & functionality**  
@@ -23,6 +27,13 @@
 - 🌱 Learning **AWS** and exploring cloud architectures  
 - 🖤 Building intuitive designs with **Figma** & **React.js**  
 - 🤖 Diving into **AI/ML** projects to create real-world impact  
+
+</td>
+<td width="30%" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWFvM2t6d2tyajliNnRjZHoxdmExdmQ4Yjd5cTk1cXozZ2RoNjFvMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gH1jGsCnQBiFHWMFzh/giphy.gif" width="150" />
+</td>
+</tr>
+</table>
 
 ---
 
