@@ -5,6 +5,12 @@
 <h1 align="center">Hi there! 🌸 I'm Sakshi</h1>
 <h3 align="center">✨ B.Tech CSE | Aspiring AI/ML Engineer & Full Stack Developer | Passionate UI/UX Designer 🎨</h3>
 
+<p align="center">
+  <a href="https://pippoportfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Portfolio-%23FFB6C1?style=for-the-badge&logoColor=white&logo=window" />
+  </a>
+</p>
+
 ---
 
 ## 🌷 About Me
@@ -73,3 +79,4 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=portgasdyamato&icon=6&color=12)](https://github.com/portgasdyamato)
+
