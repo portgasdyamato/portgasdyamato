@@ -55,9 +55,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=portgasdyamato&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false" width="400" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=portgasdyamato&theme=cobalt&hide_border=true" width="400"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=portgasdyamato&theme=ambient_gradient&hide_border=true" width="400"/>
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=portgasdyamato&theme=cobalt&layout=compact&hide_border=true" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=portgasdyamato&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="400"/>
 </p>
 
 ---
