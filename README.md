@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/144521638?s=96&v=4" width="150" height="150" style="border-radius: 50%;" />
+  <img src="https://github.com/portgasdyamato/Portfolio/blob/main/public/heh.gif" width="150" height="150" style="border-radius: 50%;" />
 </p>
 
 <h1 align="center">Hi there! 🌸 I'm Sakshi</h1>
