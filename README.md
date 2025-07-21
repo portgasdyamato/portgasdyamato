@@ -1,4 +1,4 @@
-<p align="center">
+1<p align="center">
   <img src="https://github.com/portgasdyamato/Portfolio/blob/main/public/heh.gif" width="150" height="150" style="border-radius: 50%; box-shadow: 0 0 20px #ffc0cb;" />
 </p>
 
@@ -85,7 +85,7 @@
 ✨ *“I believe even code can be cute if you write it with love and design it with care!”*  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Nzhoc2FoNDNobW9ibDNydnptZHV6aWw0ZzRybjZpYmp2ZXJqMHZybyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OMFfLpauGoT4c/giphy.gif" width="180" style="border-radius: 12px; margin-right: 10px;" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Nzhoc2FoNDNobW9ibDNydnptZHV6aWw0ZzRybjZpYmp2ZXJqMHZybyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OMFfLpauGoT4c/giphy.gif" width="250" style="border-radius: 12px; margin-right: 10px;" />
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b2pxMWkyY2NkdDl5bnRtNzRoY2d4dnlxNWgwenRreWlhOGw1Z3lhdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vXYWbo2dZKNVK/giphy.gif" width="480" style="border-radius: 12px;" />
 </p>
 
