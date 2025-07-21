@@ -4,6 +4,7 @@
 
 <h1 align="center">Hi there! 🌸 I'm Sakshi (also known as Pippo)</h1>
 <h3 align="center">✨ B.Tech CSE | Aspiring AI/ML Engineer & Full Stack Developer | Passionate UI/UX Designer 🎨</h3>
+<h2 align="center">Click on portfolio button to check it out !! <3 </h2>
 
 <p align="center">
   <a href="https://pippoportfolio.vercel.app/" target="_blank">
@@ -13,7 +14,7 @@
 
 ---
 
-## 🤍🐥 About Me
+## 🤍 About Me
 <table>
 <tr>
 <td width="50%">
