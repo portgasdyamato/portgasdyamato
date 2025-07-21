@@ -1,5 +1,5 @@
 1<p align="center">
-  <img src="https://github.com/portgasdyamato/Portfolio/blob/main/public/heh.gif" width="150" height="150" style="border-radius: 50%; box-shadow: 0 0 20px #ffc0cb;" />
+  <img src="https://github.com/portgasdyamato/Portfolio/blob/main/public/hehe.gif" width="150" height="150" style="border-radius: 50%; box-shadow: 0 0 20px #ffc0cb;" />
 </p>
 
 <h1 align="center">Hi there! 🌸 I'm Sakshi (also known as Pippo)</h1>
