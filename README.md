@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.app.goo.gl/tLmYCMDgJxmpN59m9" width="1000" />
+  <img src="https://pin.it/5aAdT8juO" width="1000" />
 </p>
 
 <h1 align="center">Hi there! 🌸 I'm Sakshi</h1>
