@@ -2,7 +2,7 @@
   <img src="https://github.com/portgasdyamato/Portfolio/blob/main/public/heh.gif" width="150" height="150" style="border-radius: 50%; box-shadow: 0 0 20px #ffc0cb;" />
 </p>
 
-<h1 align="center">Hi there! 🌸 I'm Sakshi</h1>
+<h1 align="center">Hi there! 🌸 I'm Sakshi (also known as Pippo)</h1>
 <h3 align="center">✨ B.Tech CSE | Aspiring AI/ML Engineer & Full Stack Developer | Passionate UI/UX Designer 🎨</h3>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ---
 
-## 🌷 About Me
+## 🤍🐥 About Me
 <table>
 <tr>
 <td width="50%">
