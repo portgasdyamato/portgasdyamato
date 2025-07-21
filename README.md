@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2p0d2Fyd3Rkc2dhdXExN3Bod2ZnODRjZ3A1emduYjY1MmltdDpjbGFyZW5jZTpjb3BtcGF0aWJsZS8xLzEvMDAyLmdpZg/giphy.gif" width="150" height="150" />
+  <img src="https://raw.githubusercontent.com/portgasdyamato/portgasdyamato/main/pixel-bunny.png" width="150" height="150" style="border-radius: 50%;" />
 </p>
 
 <h1 align="center">Hi there! 🌸 I'm Sakshi</h1>
@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://pippoportfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Portfolio-%23FFB6C1?style=for-the-badge&logoColor=white&logo=window" />
+    <img src="https://img.shields.io/badge/My%20Portfolio-ffc0cb?style=for-the-badge&logo=window&logoColor=white" />
   </a>
 </p>
 
@@ -79,4 +79,5 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=portgasdyamato&icon=6&color=12)](https://github.com/portgasdyamato)
+
 
