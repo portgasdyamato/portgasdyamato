@@ -16,7 +16,7 @@
 ## 🌷 About Me
 <table>
 <tr>
-<td width="60%">
+<td width="50%">
   
 🌸 Final year **Computer Science & Engineering** student  
 💻 Aspiring **AI/ML Engineer** and **Full Stack Developer**  
@@ -29,7 +29,7 @@
 - 🤖 Diving into **AI/ML** projects to create real-world impact  
 
 </td>
-<td width="40%" align="center">
+<td width="50%" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWFvM2t6d2tyajliNnRjZHoxdmExdmQ4Yjd5cTk1cXozZ2RoNjFvMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gH1jGsCnQBiFHWMFzh/giphy.gif" width="100%" style="border-radius: 12px;" />
 </td>
 </tr>
