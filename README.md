@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/portgasdyamato/Portfolio/blob/main/public/heh.gif" width="150" height="150" style="border-radius: 50%;" />
+  <img src="https://github.com/portgasdyamato/Portfolio/blob/main/public/heh.gif" width="150" height="150" style="border-radius: 50%; box-shadow: 0 0 20px #ffc0cb;" />
 </p>
 
 <h1 align="center">Hi there! 🌸 I'm Sakshi</h1>
@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://pippoportfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Portfolio-ffc0cb?style=for-the-badge&logo=window&logoColor=white" />
+    <img src="https://img.shields.io/badge/My%20Portfolio-ffc0cb?style=for-the-badge&logo=window&logoColor=white" style="border-radius: 8px;" />
   </a>
 </p>
 
@@ -73,11 +73,10 @@
 ✨ *“I believe even code can be cute if you write it with love and design it with care!”*  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="150" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Z3ljeDJ5MWZjbzRscG9wM2psc3Z4NHRramdqa3YxeTY5ZHp2NW0wciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jIqh3ym2s7GU/giphy.gif" width="200" />
 </p>
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=portgasdyamato&icon=6&color=12)](https://github.com/portgasdyamato)
-
 
