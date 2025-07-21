@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/YA6dmVW0gfIw8/giphy.gif" width="120" />
+  <img src="" width="120" />
 </p>
 
 <h1 align="center">Hi there! 🌸 I'm Sakshi</h1>
