@@ -19,7 +19,7 @@
 <tr>
 <td width="50%">
   
-🌸 Final year **Computer Science & Engineering** student  
+🌸 **Computer Science & Engineering** student  
 💻 Aspiring **AI/ML Engineer** and **Full Stack Developer**  
 🎨 Passionate about designing aesthetic, human-centric interfaces  
 🌸 I love building projects that merge **creativity & functionality**  
