@@ -39,7 +39,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🍵 Tech Stack
 
 **Languages**  
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) 
@@ -64,7 +64,7 @@
 
 ---
 
-## 🐾 Cute Stats
+## 🐼 Cute Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=portgasdyamato&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false" width="400" />
    <br><br>
