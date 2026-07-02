@@ -115,7 +115,7 @@
 <h4>Decision-First Legal Intelligence</h4>
 AI contract review, trust architecture & progressive disclosure UX
 <br><br>
-<a href="https://pippoportfolio.vercel.app/"><img src="https://img.shields.io/badge/Case%20Study-ffc0cb?style=flat-square" /></a>
+<a href="https://pippoportfolio.vercel.app/"><img src="https://img.shields.io/badge/Vidya-ffc0cb?style=flat-square" /></a>
 </td>
 <td align="center" width="33%">
 <h4>Pocket Fund</h4>
@@ -134,7 +134,7 @@ Voice-first task manager built around zero click/keyboard equivalents
 
 <br>
 
-<img src="https://raw.githubusercontent.com/portgasdyamato/portgasdyamato/main/assets/sakura-wind.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/portgasdyamato/portgasdyamato/main/assets/ghibli-clouds.svg" width="100%" />
 
 <br>
 
@@ -156,7 +156,7 @@ Voice-first task manager built around zero click/keyboard equivalents
 
 <br>
 
-<img src="https://raw.githubusercontent.com/portgasdyamato/portgasdyamato/main/assets/ghibli-clouds.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/portgasdyamato/portgasdyamato/main/assets/twinkling-stars.svg" width="100%" />
 
 <br>
 
