@@ -26,7 +26,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ffc0cb,ffb6c1,ff69b4&height=120&section=header" width="100%"/>
+<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="100%" height="160" style="object-fit: cover; border-radius: 24px;" />
 
 <h2 align="center">⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ About Me ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆</h2>
 <br>
@@ -165,7 +165,7 @@ Voice-first task manager built around zero click/keyboard equivalents
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ffc0cb,ffb6c1,ff69b4&height=100&section=footer" width="100%"/>
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100%" height="160" style="object-fit: cover; border-radius: 24px;" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=portgasdyamato&label=Profile%20Views&color=ffc0cb&style=for-the-badge" />
