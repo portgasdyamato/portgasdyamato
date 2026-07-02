@@ -112,10 +112,10 @@
 <table>
 <tr>
 <td align="center" width="33%">
-<h4>Decision-First Legal Intelligence</h4>
-AI contract review, trust architecture & progressive disclosure UX
+<h4>Vidya</h4>
+[Add your Vidya project description here]
 <br><br>
-<a href="https://pippoportfolio.vercel.app/"><img src="https://img.shields.io/badge/Vidya-ffc0cb?style=flat-square" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Live-ffc0cb?style=flat-square" /></a>
 </td>
 <td align="center" width="33%">
 <h4>Pocket Fund</h4>
