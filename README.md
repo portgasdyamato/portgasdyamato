@@ -67,7 +67,7 @@
 
 <br>
 
-<h2 align="center">🌸 ⋆ ˚｡⋆✨˚ Tech Stack & Design Tools ˚✨⋆｡˚ 🌸</h2>
+<h2 align="center">⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ Tech Stack & Design Tools ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆</h2>
 
 <p align="center">
   <b>Design & Prototyping</b><br>
@@ -103,7 +103,7 @@
 
 
 
-## 🌸 Featured Work
+<h2 align="center">⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ Featured Work ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆</h2>
 
 <table>
 <tr>
@@ -134,7 +134,7 @@ Voice-first task manager built around zero click/keyboard equivalents
 
 <br>
 
-## 🐼 Milestones
+<h2 align="center">⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ Milestones ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆</h2>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/portgasdyamato/portgasdyamato/main/assets/slpash.gif" width="250" align="right" style="margin-left: 30px; border-radius: 18px; box-shadow: 0 4px 15px rgba(255,192,203, 0.4);" />
@@ -156,7 +156,7 @@ Voice-first task manager built around zero click/keyboard equivalents
 
 <br>
 
-<h2 align="center">🌸 Fun Fact</h2>
+<h2 align="center">⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ Fun Fact ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆</h2>
 
 <div align="center">
 
