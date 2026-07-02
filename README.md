@@ -67,7 +67,7 @@
 
 <br>
 
-### 🌸 ⋆ ˚｡⋆✨˚ Tech Stack & Design Tools ˚✨⋆｡˚ 🌸
+<h2 align="center">🌸 ⋆ ˚｡⋆✨˚ Tech Stack & Design Tools ˚✨⋆｡˚ 🌸</h2>
 
 <p align="center">
   <b>Design & Prototyping</b><br>
@@ -101,11 +101,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=portgasdyamato&show_icons=true&theme=buefy&hide_border=true&bg_color=ffe4e1&title_color=ff69b4&text_color=333333&icon_color=ff69b4" alt="GitHub Stats" />
 </div>
 
-<br>
 
-<img src="https://raw.githubusercontent.com/portgasdyamato/portgasdyamato/main/assets/twinkling-stars.svg" width="100%" />
-
-<br>
 
 ## 🌸 Featured Work
 
@@ -141,7 +137,7 @@ Voice-first task manager built around zero click/keyboard equivalents
 ## 🐼 Milestones
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/portgasdyamato/portgasdyamato/main/assets/slpash.gif" height="280" align="right" style="margin-left: 30px; border-radius: 18px; box-shadow: 0 4px 15px rgba(255,192,203, 0.4);" />
+  <img src="https://raw.githubusercontent.com/portgasdyamato/portgasdyamato/main/assets/slpash.gif" width="250" align="right" style="margin-left: 30px; border-radius: 18px; box-shadow: 0 4px 15px rgba(255,192,203, 0.4);" />
   
   <p align="left">
     <img src="https://img.shields.io/badge/🏆_UI%2FUX_Solvathon-1st_Place_%2F_700%2B_builders-ffc0cb?style=for-the-badge&labelColor=1a1a2e" /><br><br>
