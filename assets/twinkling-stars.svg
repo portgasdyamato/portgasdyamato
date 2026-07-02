@@ -1,26 +1,69 @@
 <svg viewBox="0 0 800 120" width="100%" height="120" xmlns="http://www.w3.org/2000/svg">
   <style>
+    .star-move {
+      animation: shoot 15s infinite linear;
+    }
     .star { fill: #fff0f5; animation: twinkle 3s infinite alternate ease-in-out; }
     .star-pink { fill: #ffb6c1; animation: twinkle 4s infinite alternate ease-in-out; }
+    
     @keyframes twinkle {
-      0% { opacity: 0.2; transform: scale(0.6); }
+      0% { opacity: 0.3; transform: scale(0.6); }
       100% { opacity: 1; transform: scale(1.1); }
+    }
+    @keyframes shoot {
+      0% { transform: translateX(-50px); opacity: 0; }
+      5% { opacity: 1; }
+      95% { opacity: 1; }
+      100% { transform: translateX(850px); opacity: 0; }
     }
   </style>
   
-  <g transform="translate(100, 50)">
-    <g class="star" style="animation-delay: 0s"><path d="M-10,0 Q0,0 0,-10 Q0,0 10,0 Q0,0 0,10 Q0,0 -10,0" /></g>
+  <!-- Y=30 -->
+  <g transform="translate(0, 30)">
+    <g class="star-move" style="animation-duration: 12s; animation-delay: 0s;">
+      <g class="star"><path d="M-10,0 Q0,0 0,-10 Q0,0 10,0 Q0,0 0,10 Q0,0 -10,0" /></g>
+    </g>
   </g>
-  <g transform="translate(250, 70)">
-    <g class="star-pink" style="animation-delay: -1s" transform="scale(0.8)"><path d="M-10,0 Q0,0 0,-10 Q0,0 10,0 Q0,0 0,10 Q0,0 -10,0" /></g>
+  
+  <!-- Y=70 -->
+  <g transform="translate(0, 70)">
+    <g class="star-move" style="animation-duration: 16s; animation-delay: -3s;">
+      <g class="star-pink"><path d="M-10,0 Q0,0 0,-10 Q0,0 10,0 Q0,0 0,10 Q0,0 -10,0" transform="scale(0.8)"/></g>
+    </g>
   </g>
-  <g transform="translate(400, 45)">
-    <g class="star" style="animation-delay: -2s" transform="scale(1.2)"><path d="M-10,0 Q0,0 0,-10 Q0,0 10,0 Q0,0 0,10 Q0,0 -10,0" /></g>
+  
+  <!-- Y=45 -->
+  <g transform="translate(0, 45)">
+    <g class="star-move" style="animation-duration: 14s; animation-delay: -7s;">
+      <g class="star"><path d="M-10,0 Q0,0 0,-10 Q0,0 10,0 Q0,0 0,10 Q0,0 -10,0" transform="scale(1.2)"/></g>
+    </g>
   </g>
-  <g transform="translate(550, 60)">
-    <g class="star-pink" style="animation-delay: -0.5s"><path d="M-10,0 Q0,0 0,-10 Q0,0 10,0 Q0,0 0,10 Q0,0 -10,0" /></g>
+
+  <!-- Y=85 -->
+  <g transform="translate(0, 85)">
+    <g class="star-move" style="animation-duration: 18s; animation-delay: -10s;">
+      <g class="star-pink"><path d="M-10,0 Q0,0 0,-10 Q0,0 10,0 Q0,0 0,10 Q0,0 -10,0" transform="scale(0.9)"/></g>
+    </g>
   </g>
-  <g transform="translate(700, 55)">
-    <g class="star" style="animation-delay: -1.5s" transform="scale(0.9)"><path d="M-10,0 Q0,0 0,-10 Q0,0 10,0 Q0,0 0,10 Q0,0 -10,0" /></g>
+
+  <!-- Y=55 -->
+  <g transform="translate(0, 55)">
+    <g class="star-move" style="animation-duration: 15s; animation-delay: -5s;">
+      <g class="star"><path d="M-10,0 Q0,0 0,-10 Q0,0 10,0 Q0,0 0,10 Q0,0 -10,0" transform="scale(1.1)"/></g>
+    </g>
+  </g>
+  
+  <!-- Y=35 -->
+  <g transform="translate(0, 35)">
+    <g class="star-move" style="animation-duration: 20s; animation-delay: -14s;">
+      <g class="star-pink"><path d="M-10,0 Q0,0 0,-10 Q0,0 10,0 Q0,0 0,10 Q0,0 -10,0" transform="scale(0.7)"/></g>
+    </g>
+  </g>
+  
+  <!-- Y=65 -->
+  <g transform="translate(0, 65)">
+    <g class="star-move" style="animation-duration: 13s; animation-delay: -1s;">
+      <g class="star"><path d="M-10,0 Q0,0 0,-10 Q0,0 10,0 Q0,0 0,10 Q0,0 -10,0" transform="scale(0.8)"/></g>
+    </g>
   </g>
 </svg>
