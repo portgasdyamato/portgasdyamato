@@ -26,13 +26,7 @@
 
 <br>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" width="40" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Shooting%20Star.png" width="40" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" width="40" />
-</div>
+<img src="https://raw.githubusercontent.com/portgasdyamato/portgasdyamato/main/assets/gradient-bar.svg" width="100%" />
 
 <h2 align="center">⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ About Me ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆</h2>
 <br>
@@ -171,13 +165,7 @@ Voice-first task manager built around zero click/keyboard equivalents
 
 <br>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" width="40" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Shooting%20Star.png" width="40" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" width="40" />
-</div>
+<img src="https://raw.githubusercontent.com/portgasdyamato/portgasdyamato/main/assets/gradient-bar.svg" width="100%" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=portgasdyamato&label=Profile%20Views&color=ffc0cb&style=for-the-badge" />
