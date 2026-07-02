@@ -26,7 +26,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27,20,18&height=120&section=header" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47ce8fe-668d-4045-90cb-36a6278588ce.gif" width="100%">
 
 <h2 align="center">⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ About Me ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆</h2>
 <br>
@@ -35,12 +35,12 @@
   <img src="https://raw.githubusercontent.com/portgasdyamato/portgasdyamato/main/assets/tot.gif" width="220" align="left" style="margin-right: 30px; border-radius: 16px; box-shadow: 0 4px 15px rgba(255,192,203, 0.4);" />
   
   <p align="left">
-    🌸 &nbsp; <b>B.Tech Computer Science graduate, Class of 2026</b><br>
-    🎨 &nbsp; <b>AI-native Product Designer & Design Engineer</b><br>
-    💻 &nbsp; I design in <b>Figma</b> and ship in <b>React, TypeScript, and Next.js</b>.<br>
-    🤖 &nbsp; I build the interface layer of AI products, not the models—the trust, the clarity, the moment someone believes what the AI is telling them.<br>
-    🏆 &nbsp; <b>1st place</b>, national UI/UX Solvathon (700+ participants)<br>
-    🎓 &nbsp; <b>Columbia University</b> certified in Prompt Engineering
+    ✧ &nbsp; <b>B.Tech Computer Science graduate, Class of 2026</b><br>
+    ✧ &nbsp; <b>AI-native Product Designer & Design Engineer</b><br>
+    ✧ &nbsp; I design in <b>Figma</b> and ship in <b>React, TypeScript, and Next.js</b>.<br>
+    ✧ &nbsp; I build the interface layer of AI products, not the models—the trust, the clarity, the moment someone believes what the AI is telling them.<br>
+    ✧ &nbsp; <b>1st place</b>, national UI/UX Solvathon (700+ participants)<br>
+    ✧ &nbsp; <b>Columbia University</b> certified in Prompt Engineering
   </p>
 </div>
 
@@ -52,10 +52,10 @@
   
   <p align="right">
     <br>
-    🖤 &nbsp; <b>Shipping AI-native products end to end</b>, design through code<br>
-    🌱 &nbsp; Going deep on <b>TypeScript and design systems</b> craft<br>
-    ✨ &nbsp; Writing about how I actually build with <b>Claude Code and Cursor</b><br>
-    🏠 &nbsp; Building toward a very personal long-term goal, a home for my family
+    <b>Shipping AI-native products end to end</b>, design through code &nbsp; ✧<br>
+    Going deep on <b>TypeScript and design systems</b> craft &nbsp; ✧<br>
+    Writing about how I actually build with <b>Claude Code and Cursor</b> &nbsp; ✧<br>
+    Building toward a very personal long-term goal, a home for my family &nbsp; ✧
   </p>
 </div>
 
@@ -131,18 +131,18 @@ Voice-first task manager built around zero click/keyboard equivalents
 ## 🐼 Milestones
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/🏆_UI%2FUX_Solvathon-1st_Place_%2F_700%2B_builders-ffc0cb?style=for-the-badge&labelColor=1a1a2e" />
-<br><br>
-<img src="https://img.shields.io/badge/🎓_Columbia_University-Prompt_Engineering_Certified-ffc0cb?style=for-the-badge&labelColor=1a1a2e" />
-<br><br>
-<img src="https://img.shields.io/badge/🎨_Products_Shipped-Vidya_·_Pocket_Fund_·_VoXa_·_Vinyl_Records-ffc0cb?style=for-the-badge&labelColor=1a1a2e" />
-<br><br>
-<img src="https://img.shields.io/badge/🤖_AI_Enterprise_Training-70%2B_professionals_·_Ozone_Group-ffc0cb?style=for-the-badge&labelColor=1a1a2e" />
-<br><br>
-<img src="https://img.shields.io/badge/🌍_Shipped_Across-India_·_UK_·_USA-ffc0cb?style=for-the-badge&labelColor=1a1a2e" />
-
+  <img src="https://raw.githubusercontent.com/portgasdyamato/portgasdyamato/main/assets/slpash.gif" width="220" align="right" style="margin-left: 30px; border-radius: 18px; box-shadow: 0 4px 15px rgba(255,192,203, 0.4);" />
+  
+  <p align="left">
+    <img src="https://img.shields.io/badge/🏆_UI%2FUX_Solvathon-1st_Place_%2F_700%2B_builders-ffc0cb?style=for-the-badge&labelColor=1a1a2e" /><br><br>
+    <img src="https://img.shields.io/badge/🎓_Columbia_University-Prompt_Engineering_Certified-ffc0cb?style=for-the-badge&labelColor=1a1a2e" /><br><br>
+    <img src="https://img.shields.io/badge/🎨_Products_Shipped-Vidya_·_Pocket_Fund_·_VoXa_·_Vinyl_Records-ffc0cb?style=for-the-badge&labelColor=1a1a2e" /><br><br>
+    <img src="https://img.shields.io/badge/🤖_AI_Enterprise_Training-70%2B_professionals_·_Ozone_Group-ffc0cb?style=for-the-badge&labelColor=1a1a2e" /><br><br>
+    <img src="https://img.shields.io/badge/🌍_Shipped_Across-India_·_UK_·_USA-ffc0cb?style=for-the-badge&labelColor=1a1a2e" />
+  </p>
 </div>
+
+<br clear="all">
 
 ---
 
@@ -154,15 +154,14 @@ Voice-first task manager built around zero click/keyboard equivalents
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/portgasdyamato/portgasdyamato/main/assets/slpash.gif" width="240" style="border-radius: 18px; margin-right: 15px; box-shadow: 0 4px 20px rgba(255, 182, 193, 0.4);" />
-<img src="https://raw.githubusercontent.com/portgasdyamato/portgasdyamato/main/assets/hah.gif" width="240" style="border-radius: 18px; margin-right: 15px; box-shadow: 0 4px 20px rgba(255, 182, 193, 0.4);" />
-<img src="https://raw.githubusercontent.com/portgasdyamato/portgasdyamato/main/assets/blb.gif" width="240" style="border-radius: 18px; box-shadow: 0 4px 20px rgba(255, 182, 193, 0.4);" />
+<img src="https://raw.githubusercontent.com/portgasdyamato/portgasdyamato/main/assets/hah.gif" width="240" style="border-radius: 18px; margin-right: 25px; box-shadow: 0 4px 20px rgba(255, 182, 193, 0.4);" />
+<img src="https://raw.githubusercontent.com/portgasdyamato/portgasdyamato/main/assets/blb.gif" width="160" style="border-radius: 18px; box-shadow: 0 4px 20px rgba(255, 182, 193, 0.4);" />
 
 </div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27,20,18&height=100&section=footer" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa526-acb2-4db1-9eeb-73d83b5aa0b1.gif" width="100%">
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=portgasdyamato&label=Profile%20Views&color=ffc0cb&style=for-the-badge" />
