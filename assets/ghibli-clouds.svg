@@ -1,4 +1,4 @@
-<svg viewBox="0 0 800 120" width="100%" height="120" xmlns="http://www.w3.org/2000/svg" style="overflow: visible;">
+<svg viewBox="0 0 800 120" width="100%" height="120" xmlns="http://www.w3.org/2000/svg">
   <style>
     .cloud1 { fill: #fff0f5; animation: float 6s infinite ease-in-out; }
     .cloud2 { fill: #ffe4e1; animation: float 5s infinite ease-in-out reverse; }
@@ -8,28 +8,34 @@
       50% { transform: translateY(-15px); }
     }
   </style>
-  <!-- Cloud 1 Left -->
-  <g class="cloud1" style="animation-delay: 0s" transform="translate(150, 70)">
-    <circle cx="0" cy="0" r="15" />
-    <circle cx="20" cy="-10" r="20" />
-    <circle cx="45" cy="-5" r="18" />
-    <circle cx="65" cy="5" r="12" />
-    <rect x="-5" y="0" width="75" height="15" rx="7.5" />
+  
+  <g transform="translate(150, 70)">
+    <g class="cloud1" style="animation-delay: 0s">
+      <circle cx="0" cy="0" r="15" />
+      <circle cx="20" cy="-10" r="20" />
+      <circle cx="45" cy="-5" r="18" />
+      <circle cx="65" cy="5" r="12" />
+      <rect x="-5" y="0" width="75" height="15" rx="7.5" />
+    </g>
   </g>
-  <!-- Cloud 2 Center -->
-  <g class="cloud2" style="animation-delay: -2s" transform="translate(350, 60)">
-    <circle cx="0" cy="0" r="20" />
-    <circle cx="25" cy="-15" r="25" />
-    <circle cx="55" cy="-10" r="22" />
-    <circle cx="80" cy="5" r="15" />
-    <rect x="-8" y="0" width="95" height="20" rx="10" />
+  
+  <g transform="translate(380, 60)">
+    <g class="cloud2" style="animation-delay: -2s">
+      <circle cx="0" cy="0" r="20" />
+      <circle cx="25" cy="-15" r="25" />
+      <circle cx="55" cy="-10" r="22" />
+      <circle cx="80" cy="5" r="15" />
+      <rect x="-8" y="0" width="95" height="20" rx="10" />
+    </g>
   </g>
-  <!-- Cloud 3 Right -->
-  <g class="cloud3" style="animation-delay: -4s" transform="translate(550, 75)">
-    <circle cx="0" cy="0" r="12" />
-    <circle cx="15" cy="-8" r="16" />
-    <circle cx="35" cy="-4" r="14" />
-    <circle cx="50" cy="4" r="10" />
-    <rect x="-4" y="0" width="58" height="12" rx="6" />
+  
+  <g transform="translate(600, 75)">
+    <g class="cloud3" style="animation-delay: -4s">
+      <circle cx="0" cy="0" r="12" />
+      <circle cx="15" cy="-8" r="16" />
+      <circle cx="35" cy="-4" r="14" />
+      <circle cx="50" cy="4" r="10" />
+      <rect x="-4" y="0" width="58" height="12" rx="6" />
+    </g>
   </g>
 </svg>
