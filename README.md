@@ -26,7 +26,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27,20,18&height=120&section=header" width="100%"/>
 
 ## 🤍 About Me
 
@@ -126,23 +126,21 @@ Voice-first task manager built around zero click/keyboard equivalents
 
 ---
 
-## 🐼 Stats
+## 🐼 Milestones
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=portgasdyamato&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false" width="400" />
-  <br><br>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=portgasdyamato&theme=ambient_gradient&hide_border=true" width="400" height="300"/>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=portgasdyamato&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="400"/>
-</p>
+<div align="center">
 
----
+<img src="https://img.shields.io/badge/🏆_UI%2FUX_Solvathon-1st_Place_%2F_700%2B_builders-ffc0cb?style=for-the-badge&labelColor=1a1a2e" />
+<br><br>
+<img src="https://img.shields.io/badge/🎓_Columbia_University-Prompt_Engineering_Certified-ffc0cb?style=for-the-badge&labelColor=1a1a2e" />
+<br><br>
+<img src="https://img.shields.io/badge/🎨_Products_Shipped-Vidya_·_Pocket_Fund_·_VoXa_·_Vinyl_Records-ffc0cb?style=for-the-badge&labelColor=1a1a2e" />
+<br><br>
+<img src="https://img.shields.io/badge/🤖_AI_Enterprise_Training-70%2B_professionals_·_Ozone_Group-ffc0cb?style=for-the-badge&labelColor=1a1a2e" />
+<br><br>
+<img src="https://img.shields.io/badge/🌍_Shipped_Across-India_·_UK_·_USA-ffc0cb?style=for-the-badge&labelColor=1a1a2e" />
 
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=portgasdyamato&theme=radical&no-frame=true&no-bg=true&margin-w=4"/>
-</p>
+</div>
 
 ---
 
@@ -159,10 +157,8 @@ Voice-first task manager built around zero click/keyboard equivalents
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27,20,18&height=100&section=footer" width="100%"/>
 
 <p align="center">
-  <a href="https://github.com/portgasdyamato">
-    <img src="https://visitcount.itsvg.in/api?id=portgasdyamato&icon=6&color=12" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=portgasdyamato&label=Profile%20Views&color=ffc0cb&style=for-the-badge" />
 </p>
