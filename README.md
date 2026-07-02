@@ -97,11 +97,9 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=portgasdyamato&show_icons=true&theme=buefy&hide_border=true&bg_color=ffe4e1&title_color=ff69b4&text_color=333333&icon_color=ff69b4" alt="GitHub Stats" />
-</div>
+<img src="https://raw.githubusercontent.com/portgasdyamato/portgasdyamato/main/assets/twinkling-stars.svg" width="100%" />
 
-
+<br>
 
 <h2 align="center">⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ Featured Work ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆</h2>
 
