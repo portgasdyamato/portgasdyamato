@@ -107,9 +107,9 @@
 <tr>
 <td align="center" width="33%">
 <h4>Vidya</h4>
-[Add your Vidya project description here]
+AI-powered accessible learning platform for the visually impaired, React · TypeScript · Gemini
 <br><br>
-<a href="#"><img src="https://img.shields.io/badge/Live-ffc0cb?style=flat-square" /></a>
+<a href="https://vidya-swart.vercel.app/"><img src="https://img.shields.io/badge/Live-ffc0cb?style=flat-square" /></a>
 </td>
 <td align="center" width="33%">
 <h4>Pocket Fund</h4>
