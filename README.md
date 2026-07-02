@@ -26,7 +26,7 @@
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47ce8fe-668d-4045-90cb-36a6278588ce.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ffc0cb,ffb6c1,ff69b4&height=120&section=header" width="100%"/>
 
 <h2 align="center">⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ About Me ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆</h2>
 <br>
@@ -150,18 +150,22 @@ Voice-first task manager built around zero click/keyboard equivalents
 
 <div align="center">
 
-✨ *"I believe even code can be cute if you write it with love and design it with care."*
+<img src="https://raw.githubusercontent.com/portgasdyamato/portgasdyamato/main/assets/hah.gif" width="240" align="left" style="margin-left: 20px; border-radius: 18px; box-shadow: 0 4px 20px rgba(255, 182, 193, 0.4);" />
+<img src="https://raw.githubusercontent.com/portgasdyamato/portgasdyamato/main/assets/blb.gif" width="120" align="right" style="margin-right: 20px; border-radius: 18px; box-shadow: 0 4px 20px rgba(255, 182, 193, 0.4); margin-bottom: 70px;" />
 
-<br><br>
+<br><br><br>
 
-<img src="https://raw.githubusercontent.com/portgasdyamato/portgasdyamato/main/assets/hah.gif" width="260" style="border-radius: 18px; margin-right: 40px; box-shadow: 0 4px 20px rgba(255, 182, 193, 0.4);" />
-<img src="https://raw.githubusercontent.com/portgasdyamato/portgasdyamato/main/assets/blb.gif" width="100" style="border-radius: 18px; box-shadow: 0 4px 20px rgba(255, 182, 193, 0.4); margin-bottom: 90px;" />
+<p align="center">
+  ✨ <i>"I believe even code can be cute if you write it with love and design it with care."</i> ✨
+</p>
 
 </div>
 
+<br clear="all">
+
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa526-acb2-4db1-9eeb-73d83b5aa0b1.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ffc0cb,ffb6c1,ff69b4&height=100&section=footer" width="100%"/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=portgasdyamato&label=Profile%20Views&color=ffc0cb&style=for-the-badge" />
