@@ -28,37 +28,42 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27,20,18&height=120&section=header" width="100%"/>
 
-## 🤍 About Me
-
-<table>
-<tr>
-<td width="55%" valign="top">
-
-🌸 &nbsp; B.Tech Computer Science graduate, Class of 2026
-🎨 &nbsp; AI-native Product Designer & Design Engineer
-💻 &nbsp; I design in Figma and ship in React, TypeScript, and Next.js
-🤖 &nbsp; I build the interface layer of AI products, not the models, the trust, the clarity, the moment someone believes what the AI is telling them
-🏆 &nbsp; 1st place, national UI/UX Solvathon, 700+ participants
-🎓 &nbsp; Columbia University certified in Prompt Engineering
-
+<h2 align="center">⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ About Me ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆</h2>
 <br>
 
-**🚀 Currently**
-- 🖤 Shipping AI-native products end to end, design through code
-- 🌱 Going deep on TypeScript and design systems craft
-- ✨ Writing about how I actually build with Claude Code and Cursor
-- 🏠 Building toward a very personal long-term goal, a home for my family
+<div align="center">
+  <img src="https://raw.githubusercontent.com/portgasdyamato/portgasdyamato/main/assets/tot.gif" width="220" align="left" style="margin-right: 30px; border-radius: 16px; box-shadow: 0 4px 15px rgba(255,192,203, 0.4);" />
+  
+  <p align="left">
+    🌸 &nbsp; <b>B.Tech Computer Science graduate, Class of 2026</b><br>
+    🎨 &nbsp; <b>AI-native Product Designer & Design Engineer</b><br>
+    💻 &nbsp; I design in <b>Figma</b> and ship in <b>React, TypeScript, and Next.js</b>.<br>
+    🤖 &nbsp; I build the interface layer of AI products, not the models—the trust, the clarity, the moment someone believes what the AI is telling them.<br>
+    🏆 &nbsp; <b>1st place</b>, national UI/UX Solvathon (700+ participants)<br>
+    🎓 &nbsp; <b>Columbia University</b> certified in Prompt Engineering
+  </p>
+</div>
 
-</td>
-<td width="45%" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100%" style="border-radius: 14px;" />
-</td>
-</tr>
-</table>
+<br clear="all">
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/portgasdyamato/portgasdyamato/main/assets/deer.gif" width="220" align="right" style="margin-left: 30px; border-radius: 16px; box-shadow: 0 4px 15px rgba(255,192,203, 0.4);" />
+  
+  <p align="right">
+    <br>
+    🖤 &nbsp; <b>Shipping AI-native products end to end</b>, design through code<br>
+    🌱 &nbsp; Going deep on <b>TypeScript and design systems</b> craft<br>
+    ✨ &nbsp; Writing about how I actually build with <b>Claude Code and Cursor</b><br>
+    🏠 &nbsp; Building toward a very personal long-term goal, a home for my family
+  </p>
+</div>
+
+<br clear="all">
 
 ---
 
-### 🎀 ⋆ ˚｡⋆୨୧˚ Tech Stack & Design Tools ˚୨୧⋆｡˚ 🎀
+### 🌸 ⋆ ˚｡⋆✨˚ Tech Stack & Design Tools ˚✨⋆｡˚ 🌸
 
 <p align="center">
   <b>Design & Prototyping</b><br>
@@ -141,14 +146,17 @@ Voice-first task manager built around zero click/keyboard equivalents
 
 ---
 
-## 🌸 Fun Fact
+<h2 align="center">🌸 Fun Fact</h2>
 
 <div align="center">
 
 ✨ *"I believe even code can be cute if you write it with love and design it with care."*
 
-<img src="https://media.giphy.com/media/i8tB8b8B8aGZ5z4E0I/giphy.gif" width="240" style="border-radius: 14px; margin-right: 10px;" />
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="460" style="border-radius: 14px;" />
+<br><br>
+
+<img src="https://raw.githubusercontent.com/portgasdyamato/portgasdyamato/main/assets/slpash.gif" width="240" style="border-radius: 18px; margin-right: 15px; box-shadow: 0 4px 20px rgba(255, 182, 193, 0.4);" />
+<img src="https://raw.githubusercontent.com/portgasdyamato/portgasdyamato/main/assets/hah.gif" width="240" style="border-radius: 18px; margin-right: 15px; box-shadow: 0 4px 20px rgba(255, 182, 193, 0.4);" />
+<img src="https://raw.githubusercontent.com/portgasdyamato/portgasdyamato/main/assets/blb.gif" width="240" style="border-radius: 18px; box-shadow: 0 4px 20px rgba(255, 182, 193, 0.4);" />
 
 </div>
 
