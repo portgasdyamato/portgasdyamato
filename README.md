@@ -61,7 +61,11 @@
 
 <br clear="all">
 
----
+<br>
+
+<img src="https://raw.githubusercontent.com/portgasdyamato/portgasdyamato/main/assets/ghibli-clouds.svg" width="100%" />
+
+<br>
 
 ### 🌸 ⋆ ˚｡⋆✨˚ Tech Stack & Design Tools ˚✨⋆｡˚ 🌸
 
@@ -99,7 +103,9 @@
 
 <br>
 
----
+<img src="https://raw.githubusercontent.com/portgasdyamato/portgasdyamato/main/assets/twinkling-stars.svg" width="100%" />
+
+<br>
 
 ## 🌸 Featured Work
 
@@ -126,7 +132,11 @@ Voice-first task manager built around zero click/keyboard equivalents
 </tr>
 </table>
 
----
+<br>
+
+<img src="https://raw.githubusercontent.com/portgasdyamato/portgasdyamato/main/assets/sakura-wind.svg" width="100%" />
+
+<br>
 
 ## 🐼 Milestones
 
@@ -144,14 +154,18 @@ Voice-first task manager built around zero click/keyboard equivalents
 
 <br clear="all">
 
----
+<br>
+
+<img src="https://raw.githubusercontent.com/portgasdyamato/portgasdyamato/main/assets/ghibli-clouds.svg" width="100%" />
+
+<br>
 
 <h2 align="center">🌸 Fun Fact</h2>
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/portgasdyamato/portgasdyamato/main/assets/hah.gif" width="240" align="left" style="margin-left: 20px; border-radius: 18px; box-shadow: 0 4px 20px rgba(255, 182, 193, 0.4);" />
-<img src="https://raw.githubusercontent.com/portgasdyamato/portgasdyamato/main/assets/blb.gif" width="120" align="right" style="margin-right: 20px; border-radius: 18px; box-shadow: 0 4px 20px rgba(255, 182, 193, 0.4); margin-bottom: 70px;" />
+<img src="https://raw.githubusercontent.com/portgasdyamato/portgasdyamato/main/assets/blb.gif" width="120" align="right" style="margin-right: 140px; border-radius: 18px; box-shadow: 0 4px 20px rgba(255, 182, 193, 0.4); margin-bottom: 70px;" />
 
 <br><br><br>
 
