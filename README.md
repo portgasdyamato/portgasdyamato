@@ -131,7 +131,7 @@ Voice-first task manager built around zero click/keyboard equivalents
 ## 🐼 Milestones
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/portgasdyamato/portgasdyamato/main/assets/slpash.gif" width="220" align="right" style="margin-left: 30px; border-radius: 18px; box-shadow: 0 4px 15px rgba(255,192,203, 0.4);" />
+  <img src="https://raw.githubusercontent.com/portgasdyamato/portgasdyamato/main/assets/slpash.gif" height="280" align="right" style="margin-left: 30px; border-radius: 18px; box-shadow: 0 4px 15px rgba(255,192,203, 0.4);" />
   
   <p align="left">
     <img src="https://img.shields.io/badge/🏆_UI%2FUX_Solvathon-1st_Place_%2F_700%2B_builders-ffc0cb?style=for-the-badge&labelColor=1a1a2e" /><br><br>
@@ -154,8 +154,8 @@ Voice-first task manager built around zero click/keyboard equivalents
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/portgasdyamato/portgasdyamato/main/assets/hah.gif" width="240" style="border-radius: 18px; margin-right: 25px; box-shadow: 0 4px 20px rgba(255, 182, 193, 0.4);" />
-<img src="https://raw.githubusercontent.com/portgasdyamato/portgasdyamato/main/assets/blb.gif" width="160" style="border-radius: 18px; box-shadow: 0 4px 20px rgba(255, 182, 193, 0.4);" />
+<img src="https://raw.githubusercontent.com/portgasdyamato/portgasdyamato/main/assets/hah.gif" width="260" style="border-radius: 18px; margin-right: 40px; box-shadow: 0 4px 20px rgba(255, 182, 193, 0.4);" />
+<img src="https://raw.githubusercontent.com/portgasdyamato/portgasdyamato/main/assets/blb.gif" width="100" style="border-radius: 18px; box-shadow: 0 4px 20px rgba(255, 182, 193, 0.4); margin-bottom: 90px;" />
 
 </div>
 
