@@ -75,39 +75,45 @@
   <img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=adobe%20xd&logoColor=white" />
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe%20illustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe%20photoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe%20photoshop&logoColor=white" /><br>
   <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=flat-square&logo=adobe%20after%20effects&logoColor=white" />
   <img src="https://img.shields.io/badge/InDesign-FF3366?style=flat-square&logo=adobe%20indesign&logoColor=white" />
   <img src="https://img.shields.io/badge/Sketch-F7B500?style=flat-square&logo=sketch&logoColor=black" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
 </p>
 
+<br>
+
 <p align="center">
   <b>Frontend Engineering</b><br>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /><br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
 </p>
 
+<br>
+
 <p align="center">
   <b>AI & Emerging Tech</b><br>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-F4F4F4?style=flat-square&logo=anthropic&logoColor=black" />
+  <img src="https://img.shields.io/badge/Claude-F4F4F4?style=flat-square&logo=anthropic&logoColor=black" /><br>
   <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/V0-000000?style=flat-square&logo=v0&logoColor=white" />
 </p>
 
+<br>
+
 <p align="center">
   <b>Collaboration & Process</b><br>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" />
   <img src="https://img.shields.io/badge/Miro-050038?style=flat-square&logo=miro&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" /><br>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </p>
