@@ -1,17 +1,18 @@
-<svg viewBox="0 0 800 160" width="100%" height="160" xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges">
+<svg viewBox="0 0 800 160" width="100%" height="160" xmlns="http://www.w3.org/2000/svg" style="overflow: visible;">
   <defs>
-    <g id="pixel-cloud">
-      <!-- Shadow -->
-      <path d="M 12 0 H 20 V 4 H 22 V 2 H 26 V 4 H 28 V 6 H 30 V 12 H 2 V 8 H 4 V 6 H 6 V 4 H 10 V 6 H 12 V 0 Z" fill="#ffb6c1" opacity="0.8" transform="translate(2, 2)" />
-      <!-- Main -->
-      <path d="M 12 0 H 20 V 4 H 22 V 2 H 26 V 4 H 28 V 6 H 30 V 12 H 2 V 8 H 4 V 6 H 6 V 4 H 10 V 6 H 12 V 0 Z" fill="#ffffff" />
+    <!-- Crisp, perfectly proportioned cute Ghibli-style puffy cloud -->
+    <g id="anime-cloud">
+      <!-- Deep shadow (HotPink) -->
+      <path d="M 20,40 Q 20,50 35,50 L 115,50 Q 135,50 135,35 Q 135,25 125,20 Q 120,5 100,5 Q 85,5 75,15 Q 65,-5 45,-5 Q 25,-5 15,15 Q 5,20 5,30 Q 5,40 20,40 Z" fill="#ff69b4" opacity="0.5" />
+      
+      <!-- Main Fluffy Layer (Pink) -->
+      <path d="M 20,35 Q 20,45 35,45 L 115,45 Q 135,45 135,30 Q 135,20 125,15 Q 120,0 100,0 Q 85,0 75,10 Q 65,-10 45,-10 Q 25,-10 15,10 Q 5,15 5,25 Q 5,35 20,35 Z" fill="#ffc0cb" />
     </g>
 
-    <g id="pixel-cloud-small">
-      <!-- Shadow -->
-      <path d="M 8 2 H 14 V 6 H 16 V 4 H 20 V 6 H 22 V 8 H 24 V 12 H 2 V 8 H 4 V 6 H 8 V 2 Z" fill="#ffb6c1" opacity="0.8" transform="translate(2, 2)" />
-      <!-- Main -->
-      <path d="M 8 2 H 14 V 6 H 16 V 4 H 20 V 6 H 22 V 8 H 24 V 12 H 2 V 8 H 4 V 6 H 8 V 2 Z" fill="#ffffff" />
+    <!-- Smaller cute variant -->
+    <g id="anime-cloud-small">
+      <path d="M 15,25 Q 15,32 25,32 L 75,32 Q 90,32 90,20 Q 90,12 80,10 Q 75,0 60,0 Q 50,0 45,8 Q 35,-5 25,-5 Q 15,-5 10,8 Q 0,10 0,18 Q 0,25 15,25 Z" fill="#ff69b4" opacity="0.5" />
+      <path d="M 15,20 Q 15,27 25,27 L 75,27 Q 90,27 90,15 Q 90,7 80,5 Q 75,-5 60,-5 Q 50,-5 45,3 Q 35,-10 25,-10 Q 15,-10 10,3 Q 0,5 0,13 Q 0,20 15,20 Z" fill="#ffc0cb" />
     </g>
   </defs>
 
@@ -24,56 +25,56 @@
     
     @keyframes bob {
       0%, 100% { transform: translateY(0px); }
-      50% { transform: translateY(-24px); }
+      50% { transform: translateY(-30px); }
     }
   </style>
 
   <!-- Far left small cloud -->
   <g transform="translate(40, 80)">
     <g class="float2" style="animation-delay: -2s;">
-      <use href="#pixel-cloud-small" transform="scale(3)" />
+      <use href="#anime-cloud-small" transform="scale(0.9)" />
     </g>
   </g>
   
   <!-- Left-center big cloud -->
   <g transform="translate(160, 95)">
     <g class="float1" style="animation-delay: 0s;">
-      <use href="#pixel-cloud" transform="scale(4)" />
+      <use href="#anime-cloud" transform="scale(1.1)" />
     </g>
   </g>
   
   <!-- Center top small cloud -->
   <g transform="translate(340, 65)">
     <g class="float4" style="animation-delay: -5s;">
-      <use href="#pixel-cloud-small" transform="scale(3.5)" />
+      <use href="#anime-cloud-small" transform="scale(1.2)" />
     </g>
   </g>
 
   <!-- Right-center big cloud -->
   <g transform="translate(500, 105)">
     <g class="float5" style="animation-delay: -3s;">
-      <use href="#pixel-cloud" transform="scale(3)" />
+      <use href="#anime-cloud" transform="scale(0.9)" />
     </g>
   </g>
   
   <!-- Far right big cloud -->
   <g transform="translate(680, 75)">
     <g class="float3" style="animation-delay: -7s;">
-      <use href="#pixel-cloud" transform="scale(2.5)" />
+      <use href="#anime-cloud" transform="scale(0.8)" />
     </g>
   </g>
 
   <!-- Background small cloud (faded) -->
   <g transform="translate(280, 95)">
     <g class="float2" style="animation-delay: -6s;">
-      <use href="#pixel-cloud-small" transform="scale(2)" opacity="0.6" />
+      <use href="#anime-cloud-small" transform="scale(0.7)" opacity="0.6" />
     </g>
   </g>
 
   <!-- Background small cloud (faded) -->
   <g transform="translate(600, 70)">
     <g class="float1" style="animation-delay: -8s;">
-      <use href="#pixel-cloud-small" transform="scale(2.5)" opacity="0.7" />
+      <use href="#anime-cloud-small" transform="scale(0.8)" opacity="0.7" />
     </g>
   </g>
 </svg>
