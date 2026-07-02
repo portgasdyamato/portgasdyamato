@@ -1,66 +1,18 @@
-<svg viewBox="0 0 800 160" width="100%" height="160" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 800 160" width="100%" height="160" xmlns="http://www.w3.org/2000/svg" style="overflow: visible;">
   <defs>
-    <!-- Soft glowing effect for that magical Ghibli feel -->
-    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="2" result="blur" />
-      <feComposite in="SourceGraphic" in2="blur" operator="over" />
-    </filter>
-
-    <g id="cloud-fluffy">
-      <!-- Shadow -->
-      <g fill="#ffb6c1" opacity="0.3">
-        <circle cx="20" cy="1" r="22" />
-        <circle cx="50" cy="-5" r="28" />
-        <circle cx="85" cy="-1" r="24" />
-        <circle cx="115" cy="8" r="15" />
-        <rect x="0" y="-2" width="125" height="25" rx="12.5" />
-      </g>
-      <!-- Highlight -->
-      <g fill="#ffffff">
-        <circle cx="25" cy="2" r="18" />
-        <circle cx="50" cy="-5" r="25" />
-        <circle cx="80" cy="0" r="20" />
-        <circle cx="105" cy="8" r="12" />
-        <rect x="7" y="0" width="105" height="20" rx="10" />
-      </g>
-    </g>
-    
-    <g id="cloud-long">
-      <!-- Shadow -->
-      <g fill="#ffb6c1" opacity="0.25">
-        <circle cx="15" cy="0" r="18" />
-        <circle cx="45" cy="-4" r="22" />
-        <circle cx="80" cy="-10" r="28" />
-        <circle cx="115" cy="-7" r="25" />
-        <circle cx="145" cy="2" r="16" />
-        <rect x="0" y="-2" width="155" height="20" rx="10" />
-      </g>
-      <!-- Highlight -->
-      <g fill="#ffffff">
-        <circle cx="20" cy="1" r="14" />
-        <circle cx="45" cy="-3" r="18" />
-        <circle cx="80" cy="-9" r="24" />
-        <circle cx="110" cy="-5" r="20" />
-        <circle cx="135" cy="3" r="12" />
-        <rect x="6" y="0" width="135" height="15" rx="7.5" />
-      </g>
+    <!-- Crisp, perfectly proportioned cute Ghibli-style puffy cloud -->
+    <g id="anime-cloud">
+      <!-- Deep shadow (pastel pink offset) -->
+      <path d="M 20,40 Q 20,50 35,50 L 115,50 Q 135,50 135,35 Q 135,25 125,20 Q 120,5 100,5 Q 85,5 75,15 Q 65,-5 45,-5 Q 25,-5 15,15 Q 5,20 5,30 Q 5,40 20,40 Z" fill="#ffb6c1" opacity="0.6" />
+      
+      <!-- Main Fluffy White Layer -->
+      <path d="M 20,35 Q 20,45 35,45 L 115,45 Q 135,45 135,30 Q 135,20 125,15 Q 120,0 100,0 Q 85,0 75,10 Q 65,-10 45,-10 Q 25,-10 15,10 Q 5,15 5,25 Q 5,35 20,35 Z" fill="#ffffff" />
     </g>
 
-    <g id="cloud-small">
-      <!-- Shadow -->
-      <g fill="#ffb6c1" opacity="0.35">
-        <circle cx="15" cy="1" r="15" />
-        <circle cx="40" cy="-2" r="18" />
-        <circle cx="72" cy="4" r="12" />
-        <rect x="0" y="-2" width="85" height="18" rx="9" />
-      </g>
-      <!-- Highlight -->
-      <g fill="#ffffff">
-        <circle cx="18" cy="1" r="12" />
-        <circle cx="40" cy="-2" r="15" />
-        <circle cx="65" cy="4" r="9" />
-        <rect x="6" y="0" width="70" height="13" rx="6.5" />
-      </g>
+    <!-- Smaller cute variant -->
+    <g id="anime-cloud-small">
+      <path d="M 15,25 Q 15,32 25,32 L 75,32 Q 90,32 90,20 Q 90,12 80,10 Q 75,0 60,0 Q 50,0 45,8 Q 35,-5 25,-5 Q 15,-5 10,8 Q 0,10 0,18 Q 0,25 15,25 Z" fill="#ffb6c1" opacity="0.6" />
+      <path d="M 15,20 Q 15,27 25,27 L 75,27 Q 90,27 90,15 Q 90,7 80,5 Q 75,-5 60,-5 Q 50,-5 45,3 Q 35,-10 25,-10 Q 15,-10 10,3 Q 0,5 0,13 Q 0,20 15,20 Z" fill="#ffffff" />
     </g>
   </defs>
 
@@ -78,58 +30,51 @@
   </style>
 
   <!-- Far left small cloud -->
-  <g transform="translate(30, 95)" filter="url(#glow)">
+  <g transform="translate(40, 80)">
     <g class="float2" style="animation-delay: -2s;">
-      <use href="#cloud-small" transform="scale(0.8)" />
+      <use href="#anime-cloud-small" transform="scale(0.9)" />
     </g>
   </g>
   
-  <!-- Left-center fluffy cloud -->
-  <g transform="translate(140, 110)" filter="url(#glow)">
+  <!-- Left-center big cloud -->
+  <g transform="translate(160, 95)">
     <g class="float1" style="animation-delay: 0s;">
-      <use href="#cloud-fluffy" transform="scale(1.1)" />
+      <use href="#anime-cloud" transform="scale(1.1)" />
     </g>
   </g>
   
-  <!-- Center top long cloud -->
-  <g transform="translate(320, 80)" filter="url(#glow)">
+  <!-- Center top small cloud -->
+  <g transform="translate(340, 65)">
     <g class="float4" style="animation-delay: -5s;">
-      <use href="#cloud-long" transform="scale(0.9)" />
+      <use href="#anime-cloud-small" transform="scale(1.2)" />
     </g>
   </g>
 
-  <!-- Right-center small cloud -->
-  <g transform="translate(520, 120)" filter="url(#glow)">
+  <!-- Right-center big cloud -->
+  <g transform="translate(500, 105)">
     <g class="float5" style="animation-delay: -3s;">
-      <use href="#cloud-small" transform="scale(1.2)" />
+      <use href="#anime-cloud" transform="scale(0.9)" />
     </g>
   </g>
   
-  <!-- Right fluffy cloud -->
-  <g transform="translate(640, 90)" filter="url(#glow)">
+  <!-- Far right big cloud -->
+  <g transform="translate(680, 75)">
     <g class="float3" style="animation-delay: -7s;">
-      <use href="#cloud-fluffy" transform="scale(0.9)" />
-    </g>
-  </g>
-  
-  <!-- Far right long cloud -->
-  <g transform="translate(720, 115)" filter="url(#glow)">
-    <g class="float1" style="animation-delay: -1s;">
-      <use href="#cloud-long" transform="scale(0.7)" />
+      <use href="#anime-cloud" transform="scale(0.8)" />
     </g>
   </g>
 
-  <!-- Extra background cloud -->
-  <g transform="translate(260, 110)" filter="url(#glow)">
+  <!-- Background small cloud (faded) -->
+  <g transform="translate(280, 95)">
     <g class="float2" style="animation-delay: -6s;">
-      <use href="#cloud-small" transform="scale(0.7)" opacity="0.6" />
+      <use href="#anime-cloud-small" transform="scale(0.7)" opacity="0.5" />
     </g>
   </g>
 
-  <!-- Extra background cloud -->
-  <g transform="translate(480, 85)" filter="url(#glow)">
+  <!-- Background small cloud (faded) -->
+  <g transform="translate(600, 70)">
     <g class="float1" style="animation-delay: -8s;">
-      <use href="#cloud-fluffy" transform="scale(0.6)" opacity="0.7" />
+      <use href="#anime-cloud-small" transform="scale(0.8)" opacity="0.6" />
     </g>
   </g>
 </svg>
